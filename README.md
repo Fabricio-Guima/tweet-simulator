@@ -26,3 +26,6 @@ Pequeno projeto para praticar o "flow" no vue 3, os tweets são guardados no loc
 - boostrap para cuidar do css
 - uso da biblioteca momentJs (não usem)
 - css usando sass
+
+### Link no ar
+- https://tweet-simulator-vu3.netlify.app/
